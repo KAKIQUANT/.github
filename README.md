@@ -1,2 +1,6 @@
-# .github
-QUNAT Intro
+# KAKIQUNAT
+## - Quantitative
+## - Universal
+## - Network
+## - Adoption for
+## - Tokenomics
